@@ -1,0 +1,14 @@
+<p><strong><?php echo $this->__('fashion') ?></strong><?php echo $this->__('cheque') ?></p>
+
+<table class="info-table">
+    <tbody>
+    <tr>
+        <th><?php echo $this->__('Cardnumber:') ?></th>
+        <td><?php echo $this->getInfo()->getCardNo() ?></td>
+    </tr>
+    <tr>
+        <th><?php echo $this->__('Transaction-ID:') ?></th>
+        <td><?php echo $this->getInfo()->getLastTransId() ?></td>
+    </tr>
+    </tbody>
+</table>

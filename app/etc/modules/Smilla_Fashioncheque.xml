@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Smilla_Fashioncheque>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Smilla_Fashioncheque>
+    </modules>
+</config>

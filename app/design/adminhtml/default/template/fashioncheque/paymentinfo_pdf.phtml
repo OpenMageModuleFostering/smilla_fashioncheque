@@ -1,0 +1,8 @@
+<p><?php echo $this->__('fashion') ?><?php echo $this->__('cheque') ?></p>
+<p> 
+    <?php echo $this->__('Cardnumber:') ?><br />
+    <?php echo $this->getInfo()->getCardNo() ?><br />
+    <br />
+    <?php echo $this->__('Transaction-ID:') ?><br />
+    <?php echo $this->getInfo()->getLastTransId() ?>
+</p>

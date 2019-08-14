@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+    <name>Smilla_Fashioncheque</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Gift cards get more and more popular. The gift card fashioncheque broadens the advantages for giver and the receiver of the gift card. The giver does not need to know what the receiver likes and what the store offers because the fashioncheque covers thousands of stores in the area of fashion and lifestyle in a growing number of countries. The receiver is not stuck with the wrong present or a gift card which can only be used in a dedicated shop or chain. </summary>
+    <description>Whoever buys a fashioncheque gift card doesn&#x2019;t have to browse the store trying to get the right thing. Whoever receives a fashioncheque gift card is not stuck to the wrong shops, chains, even countries. &#xD;
+&#xD;
+And whoever sells a fashioncheque generates dedicated fashion-money which can forward customers to the own stores spending the fashioncheque-money and more. &#xD;
+</description>
+    <notes>Initialrelease</notes>
+    <authors><author><name>Smilla AG</name><user>smilla</user><email>hendrik.unkenholz@smilla.com</email></author></authors>
+    <date>2015-10-23</date>
+    <time>08:50:19</time>
+    <contents><target name="magecommunity"><dir name="Smilla"><dir name="Fashioncheque"><dir name="Block"><dir name="Form"><file name="Standard.php" hash="bb84ec8a33b1e661690176e3e59fd3a6"/></dir><file name="Info.php" hash="18594f4e7c00c88a8192a98c1cbe35e4"/></dir><dir name="Helper"><file name="Api.php" hash="1dc3a6695fcb7e9b16f4693f21e835fe"/><file name="Data.php" hash="1c696f5529999e3e07f4cd796bd2b5ac"/></dir><dir name="Model"><file name="Standard.php" hash="320965d160c84411a97f235b6ba8cc5d"/></dir><dir name="controllers"><file name="PaymentController.php" hash="4f90560237af5f98f864534ecd91c2da"/></dir><dir name="etc"><file name="config.xml" hash="56fe9cbf722a81348ca23e4b9967c8ca"/><file name="system.xml" hash="cd5e162d6ca1fafa0699716c140900b3"/></dir><dir name="sql"><dir name="fashioncheque_setup"><file name="mysql4-install-1.0.0.php" hash="b4b661a9acfd58d9129c008a87adf2fe"/></dir></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="fashioncheque"><dir name="form"><file name="standard.phtml" hash="d960a5e73e43e5ad7a97564f0d4dcce3"/></dir><file name="paymentinfo.phtml" hash="2e05b7178650015cbcc3f03c47b7bbd1"/></dir></dir></dir></dir></dir><dir name="adminhtml"><dir name="default"><dir name="template"><dir name="fashioncheque"><file name="paymentinfo.phtml" hash="d595b3e4a9c55a14f8d69dd4b03fd52f"/><file name="paymentinfo_pdf.phtml" hash="765ef013db6cad1c566b5ffd7915f422"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Smilla_Fashioncheque.xml" hash="fbc5b995dfe05117e1a3fdfd798cbda8"/></dir></target><target name="magelocale"><dir name="de_DE"><file name="Smilla_Fashioncheque.csv" hash="85deb930602dde606356ddd5bb700716"/></dir><dir name="de_CH"><file name="Smilla_Fashioncheque.csv" hash="85deb930602dde606356ddd5bb700716"/></dir><dir name="fr_FR"><file name="Smilla_Fashioncheque.csv" hash="7c77e21ca6cb5fd2efdb528b4e71213b"/></dir><dir name="fr_CH"><file name="Smilla_Fashioncheque.csv" hash="7c77e21ca6cb5fd2efdb528b4e71213b"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.0</min><max>6.9.0</max></php></required></dependencies>
+</package>
