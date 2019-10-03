@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Gift cards get more and more popular. The gift card fashioncheque broadens the advantages for giver and the receiver of the gift card. The giver does not need to know what the receiver likes and what the store offers because the fashioncheque covers thousands of stores in the area of fashion and lifestyle in a growing number of countries. The receiver is not stuck with the wrong present or a gift card which can only be used in a dedicated shop or chain. 
